@@ -1,0 +1,25 @@
+#title {
+    font-size: 60px;
+    color: darkgreen;
+    font-weight: bolder;
+    text-align: center;
+}
+
+#title2 {
+    font-size: 25px;
+    color: black;
+    text-align: center;
+}
+
+div img {
+    width: 400px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.links {
+    font-weight: bold;
+    text-align: center;
+}
